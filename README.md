@@ -1,4 +1,4 @@
-# Lopata-Lite
+# Lopata-Lite PYTHON
 
 git clone https://github.com/Joker1Hack/Lopata-Lite
 apt udpate
