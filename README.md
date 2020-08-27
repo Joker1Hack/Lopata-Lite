@@ -1,6 +1,6 @@
 # Lopata-Lite PYTHON
-apt udpate
-apt upgrade
+apt udpate/n
+apt upgrade/n
 pip install requests
 pip install termcolor
 pip install colorama
